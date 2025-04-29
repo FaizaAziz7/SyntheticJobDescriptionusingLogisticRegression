@@ -1,4 +1,3 @@
-# SyntheticJobDescriptionusingLogisticRegression
 
 # Synthetic Job Description using Logistic Regression
 
